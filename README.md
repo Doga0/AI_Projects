@@ -1,1 +1,1 @@
-# AI Projects
+# Projects I made while learning AI
